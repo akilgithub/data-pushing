@@ -2,3 +2,6 @@ https://app.slack.com/client/T04MCSTP01X/D04M9CBBKH8
 its gives the ip address of slack platform
 
 my name is akhil 
+adding some important data like
+core java,adv java,servelets,jsp,springboot,SQL database,html,css basics
+
